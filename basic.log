@@ -1,0 +1,87 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:21] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:21] "[36mGET /uploads/images/Форматирование%20для%20обработчика.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:21] "[36mGET /uploads/images/Управление%20отладкой.PNG HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:26] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:31] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:31] "[36mGET /uploads/images/Форматирование%20для%20обработчика.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:31] "[36mGET /uploads/images/Управление%20отладкой.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:38] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:38:40] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:43:22] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:43:23] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:43:43] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:43:44] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:43:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:43:45] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:44:39] "GET /post HTTP/1.1" 200 -
+INFO:root:Р—Р°РіСЂСѓР¶РµРЅРЅС‹Р№ С„Р°Р№Р» - РЅРµ РєР°СЂС‚РёРЅРєР°
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:45:00] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:45:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:45:18] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:45:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:45:18] "GET /uploads/images/РЁРµРґРµРІРѕСЂ.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:48:56] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:48:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Р¤Р°Р№Р»С‹ РЅРµ Р·Р°РіСЂСѓР¶РµРЅС‹
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:48:58] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:48:59] "GET /post HTTP/1.1" 200 -
+INFO:root:Р—Р°РїСЂРѕС€РµРЅР° РіР»Р°РІРЅР°СЏ СЃС‚СЂР°РЅРёС‡РєР°
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:55:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:55:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Р’С‹РїРѕР»РЅСЏРµС‚СЃСЏ РїРѕРёСЃРє
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:55:14] "GET /search?s=РџСЂРёРІРµС‚ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:55:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:55:14] "[36mGET /uploads/images/РЁРµРґРµРІРѕСЂ.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:59:15] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:59:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:РћС€РёР±РєР° РїСЂРё Р·Р°РіСЂСѓР·РєРµ С„Р°Р№Р»Р°
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 21:59:41] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:03:54] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:03:58] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:03:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:03:58] "GET /uploads/images/РЎС…РµРјР°.png HTTP/1.1" 200 -
+INFO:root:Р—Р°РїСЂРѕС€РµРЅР° РіР»Р°РІРЅР°СЏ СЃС‚СЂР°РЅРёС‡РєР°
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:04:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:04:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Р’С‹РїРѕР»РЅСЏРµС‚СЃСЏ РїРѕРёСЃРє
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:04:12] "GET /search?s=Р’РљРЈРљР• HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:04:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:04:12] "[36mGET /uploads/images/РЎС…РµРјР°.png HTTP/1.1[0m" 304 -
+INFO:root:Р—Р°РїСЂРѕС€РµРЅР° РіР»Р°РІРЅР°СЏ СЃС‚СЂР°РЅРёС‡РєР°
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:04:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2023 22:04:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
